@@ -12,3 +12,5 @@ A webiste that offers fitness training services.
 
 ## Contribution
 Made with ❤️ by Eric Smith
+
+## ©️2019 Run Buddy, Inc
